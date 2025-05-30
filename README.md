@@ -52,4 +52,6 @@ OpenSSL 3.x.x ...
 openssl req -nodes -new -x509 -keyout cert/key.pem -out cert/cert.pem -days 365
 ```
 
+## หากไม่เข้าใจคำอธิบาย
+[![คำอธิบายวิดีโอ](https://i.ytimg.com/vi/a_ednwq0WKo/hqdefault.jpg?sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLCF18ybh-uE6r16rbbpibtfo-9xCA)](https://www.youtube.com/watch?v=a_ednwq0WKo)
  
