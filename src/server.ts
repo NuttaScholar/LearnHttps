@@ -16,6 +16,6 @@ app.get("/", (_req, res) => {
 const server = https.createServer({ key, cert }, app);
 
 const PORT = 4433;
-server.listen(PORT, () => {
+server.listen(PORT, '0.0.0.0', () => {
   console.log(`HTTPS Server is running at https://localhost:${PORT}`);
 });
